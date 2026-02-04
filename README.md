@@ -19,7 +19,6 @@ A **mini E-commerce web application** that allows users to browse products, add 
 - **Local Storage:** Cart persists across page reloads.  
 - **Responsive Layout:** Works on desktop and mobile devices.  
 
-```
 
 ## 📁 Project Structure
 
