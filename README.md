@@ -25,16 +25,16 @@ A **mini E-commerce web application** that allows users to browse products, add 
 
 ```
 E-commerce/
-├── index.html # Homepage / product listing
-├── cart.html # Shopping cart page
-├── checkout.html # Checkout page with delivery & payment
-├── styles.css # Global CSS for layout and design
-├── products.js # Product data and listing logic
-├── cart.js # Shopping cart functionality
-├── checkout.js # Checkout functionality (place order)
-└── images/ # Product images
-├── shoe1.jpg ... shoe10.jpg
-└── hoodie1.jpg ... hoodie10.jpg
+   ├── index.html
+   ├── cart.html
+   ├── checkout.html
+   ├── styles.css
+   ├── products.js
+   ├── cart.js
+   ├── checkout.js
+   ├── images/
+       ├── shoe1.jpg ... shoe10.jpg
+       ├── hoodie1.jpg ... hoodie10.jpg
 
           
 ---
