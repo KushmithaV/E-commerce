@@ -37,8 +37,9 @@ E-commerce/
 
           
 ---
-
+```
 ## 🛠️ Technologies Used
+```
 
 - **HTML5** – Page structure and semantic markup  
 - **CSS3** – Styling, layout, and responsive design  
@@ -46,7 +47,7 @@ E-commerce/
 - **LocalStorage** – Persist cart data across sessions  
 
 ---
-
+```
 ## 🚀 How to Run
 
 1. **Clone the repository:**
@@ -54,8 +55,4 @@ E-commerce/
 ```bash
 git clone https://github.com/KushmithaV/E-commerce.git
 
-
-
-
-## 📂 Folder Structure
 
