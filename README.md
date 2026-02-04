@@ -37,15 +37,12 @@ E-commerce/
 
 ```
 ## 🛠️ Technologies Used
-```
 
 - **HTML5** – Page structure and semantic markup  
 - **CSS3** – Styling, layout, and responsive design  
 - **JavaScript** – Product filtering, cart functionality, checkout simulation  
 - **LocalStorage** – Persist cart data across sessions  
 
----
-```
 ## 🚀 How to Run
 
 1. **Clone the repository:**
