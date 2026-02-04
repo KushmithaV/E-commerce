@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ShopEase</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <h2>ShopEase</h2>
+  <a href="cart.html">🛒 Cart</a>
+</header>
+
+<div class="filters">
+  <button class="filter-btn active" onclick="filterProducts('all', this)">All</button>
+  <button class="filter-btn" onclick="filterProducts('shoe', this)">Shoes</button>
+  <button class="filter-btn" onclick="filterProducts('hoodie', this)">Hoodies</button>
+</div>
+
+<div class="products" id="productList"></div>
+
+<script src="products.js"></script>
+</body>
+</html>
+
