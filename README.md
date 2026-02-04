@@ -35,8 +35,6 @@ E-commerce/
        ├── shoe1.jpg ... shoe10.jpg
        ├── hoodie1.jpg ... hoodie10.jpg
 
-          
----
 ```
 ## 🛠️ Technologies Used
 ```
